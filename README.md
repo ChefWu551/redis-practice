@@ -6,8 +6,8 @@ redis采用单线程+I/O多路复用的工作方式，采用Reactor设计模式�
     - I/O：就是指的我们网络的I/O（socket套接字）
     - 多路：指多个TCP链接（或多个channel）
     - 复用：指的是一个IO多路复用的程序
-		- ![io多路复用原理图](image\io多路复用原理图.png)
-		- ![io多路复用原理图2](image\io多路复用原理图2.png)
+		- ![io多路复用原理图](.\image\io多路复用原理图.png)
+		- ![io多路复用原理图2](.\image\io多路复用原理图2.png)
 
 ## 1. NoSQL数据简介
 
